@@ -1,0 +1,18 @@
+This project is inpired by [[http://moviebarcode.tumblr.com/][moviebarcode]].
+
+It contains a simple shell script which can compress a whole movie into a
+single moviebarcode picture.
+
+It prefers Linux as a test platform since the necessary tools such as bash,
+[[http://www.graphicsmagick.org/][graphicsmagick]], [[http://www.graphicsmagick.org/][bc]], [[http://www.ffmpeg.org/][ffmpeg]] is running better on Linux rather than on Windows.
+
+If you are a Mac OS X user, maybe you need to get [[http://brew.sh/][homebrew]] to install the
+aformentioned tools.
+
+The following picture is the moviebarcode for [[http://www.imdb.com/title/tt0301727/][Winged Migration]].
+
+[[https://github.com/xiaohanyu/moviebarcode/raw/master/screenshots/winged_migration_moviebarcode.png]]
+
+This simple project is distributed under the GPL v3 License.
+
+My original chinese blog [[http://cnlox.is-programmer.com/posts/37506.html][post]] provides some more details about this project.

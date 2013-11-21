@@ -1,7 +1,0 @@
-This is a project inpired by moviebarcode(http://moviebarcode.tumblr.com/)
-
-It provides a simple shell script which compress a whole movie to a moviebarcode picture.
-
-It prefer Linux as a test platform since the necessary tools such as bash, graphicsmagick, bc, ffmpeg is running better on Linux rather than on Windows. 
-
-This simple project is distributed under the GPL v3 License, you can contact the author<xiaohanyu1988@gmail.com> for details.
